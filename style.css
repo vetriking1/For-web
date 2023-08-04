@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    background-repeat: no-repeat; 
+    margin-bottom: 700px;
+}
+.bg-danger {
+    background-color: rgb(243, 21, 89) !important;
+  }
+.font-style{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Borel', cursive;
+    font-family: 'Handjet', cursive;
+}
+.nav-link:hover {
+    color: rgb(5, 5, 5);
+    
+}
+.nav-link {
+    color: #fffdfd;
+}
+  
+.c-nav {
+    color: white;
+}
+
+i {
+    font-size: 60px;
+    color:black;
+    text-shadow:2px 2px 4px;
+}
+
+i:hover {
+    color: #fffdfd;
+}
+
+li {
+    list-style: none;
+}
+.with{
+    max-width: 7 00px    ;
+    color: white;
+    border: 1px solid red   ;
+}
